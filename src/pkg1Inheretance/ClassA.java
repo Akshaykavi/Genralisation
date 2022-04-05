@@ -18,7 +18,8 @@ public class ClassA {
 
 public static void m2()
 {
-	
+	String a = "Akshay Kavitake";
+	System.out.println("My Name Is - "+a);
 }
 	}
 
