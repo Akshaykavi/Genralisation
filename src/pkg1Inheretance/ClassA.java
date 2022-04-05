@@ -14,6 +14,13 @@ public class ClassA {
 			System.out.println("This is m1 from ClassA");
 			
 		}
+		
+
+public static void m2()
+{
+	
+}
 	}
+
 
 
